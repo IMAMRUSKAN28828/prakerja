@@ -1,4 +1,8 @@
 halo nama saya IMAM RUSKAN 
 
 saya menggunakan branch main dikarenakan punya saya tidak ada branch master dan harus membuat lagi jadi menggunakan braanch main saja
+<<<<<<< HEAD
 saya mengetik menggunakan branch development
+=======
+saya membuat paragraf ini menggunakan branch featureA
+>>>>>>> featureA
