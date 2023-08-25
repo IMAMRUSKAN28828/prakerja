@@ -1,0 +1,4 @@
+bagi yang mau runing codingan ini cara nya:
+1. move codingan ini jangan jadikan 1 dengan folder ini
+2. run munggunakan cmd atau lainya kalau menggunakan Visual Studio Code bisa klik view lalu cari terminal
+3. lalu syntax run nya "go run[nama file go kamu]
